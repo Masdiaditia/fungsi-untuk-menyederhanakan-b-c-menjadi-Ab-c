@@ -1,0 +1,1 @@
+# fungsi-untuk-menyederhanakan-b-c-menjadi-Ab-c
